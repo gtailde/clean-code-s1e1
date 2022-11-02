@@ -50,8 +50,8 @@
   padding: 0px;
 }
 
-.item, 
-.title {
+.item,
+.title { 
   list-style: none;
 }
 
@@ -76,8 +76,8 @@
 
 /* Heading */
 
-.title,
-.label[for="new-task"] {
+.title, 
+.label[for="new-task"] { 
   color: #333;
   font-weight: 700;
   font-size: 15px;
